@@ -1,8 +1,8 @@
-# Webpack Starter 
+# AppChistes-chuckNorris
 
-Estes es el proyecto inicial  para crear aplicaciones utilizando webpack 
+Esta es una app que te genera chistes aleatorios de Chuck Norris
 
-### Notas:
+# Notas:
 Recuerda renconstruir los módulos de node 
 ```
 npm install
@@ -11,5 +11,4 @@ Y para construir el build, recuerda:
 ```
 npm run build
 ```
-# AppChistes-chuckNorris
 
